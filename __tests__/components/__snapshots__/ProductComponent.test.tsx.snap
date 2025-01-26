@@ -1,0 +1,1033 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Component with Products Loaded Component Render Snapshot 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="products-container"
+      >
+        <p
+          class="text-right md:float-right text-sm/[34px] md:mx-4"
+        >
+          Products found (
+          5
+          )
+        </p>
+        <div
+          class="flex flex-row md:w-lg gap-2 my-5"
+        >
+          <p
+            class="text-sm/[32px]"
+          >
+            Sort By
+          </p>
+          <button
+            class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-10 text-xs flex flex-auto justify-center border-[1px] border-black hover:cursor-pointer hover:opacity-80
+      undefined
+      bg-black text-white"
+          >
+            Title
+            <span
+              class="ml-2 -mr-2 -mb-[1px]"
+            >
+              <svg
+                class="size-3"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3 4.5h14.25M3 9h9.75M3 13.5h9.75m4.5-4.5v12m0 0-3.75-3.75M17.25 21 21 17.25"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </span>
+          </button>
+          <button
+            class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-10 text-xs flex flex-auto justify-center border-[1px] border-black hover:cursor-pointer hover:opacity-80
+      undefined
+      "
+          >
+            Category
+            <span
+              class="ml-2 -mr-2 -mb-[1px]"
+            >
+              <svg
+                class="size-3"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </span>
+          </button>
+          <button
+            class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-10 text-xs flex flex-auto justify-center border-[1px] border-black hover:cursor-pointer hover:opacity-80
+      undefined
+      "
+          >
+            Price
+            <span
+              class="ml-2 -mr-2 -mb-[1px]"
+            >
+              <svg
+                class="size-3"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </span>
+          </button>
+          <button
+            class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-10 text-xs flex flex-auto justify-center border-[1px] border-black hover:cursor-pointer hover:opacity-80
+      undefined
+      "
+          >
+            Rating
+            <span
+              class="ml-2 -mr-2 -mb-[1px]"
+            >
+              <svg
+                class="size-3"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3.75 6.75h16.5M3.75 12h16.5M12 17.25h8.25"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+        <div
+          class="grid xl:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-y-15 md:gap-y-10 gap-x-10 xl:max-w-7xl max-w-5xl"
+        >
+          <div
+            class="flex rounded-lg mx-2"
+          >
+            <div
+              class="place-self-center mr-4 rounded-lg"
+            >
+              <img
+                alt="Product Title #1"
+                class="max-w-25"
+                data-nimg="1"
+                decoding="async"
+                height="100"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F81fPKd-2AYL._AC_SL1500_.jpg&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F81fPKd-2AYL._AC_SL1500_.jpg&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F81fPKd-2AYL._AC_SL1500_.jpg&w=256&q=75 2x"
+                style="color: transparent;"
+                width="100"
+              />
+            </div>
+            <div
+              class="flex flex-col items-stretch ml-4 gap-y-2"
+            >
+              <h4
+                class="text-sm md:text-xs flex items-end font-bold h-auto md:h-[46px] overflow-y-hidden"
+              >
+                Product Title #1
+              </h4>
+              <p
+                class="text-base font-bold"
+              >
+                £
+                109.95
+              </p>
+              <div
+                class="flex text-xs undefined"
+              >
+                <div
+                  class="flex flex-row gap-x-1 justify-center"
+                >
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <p
+                  class="px-2 py-[2px]"
+                >
+                  3.9
+                   (
+                  120
+                   Reviews)
+                </p>
+              </div>
+              <div
+                class="text-xs sm:text-xs md:text-xs min-h-[50px] md:min-h-[65px]"
+              >
+                <p>
+                  Product Description #1
+                </p>
+              </div>
+              <div
+                class="flex flex-col-2 place-content-center w-full mt-2 gap-4"
+              >
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-25 h-[32px] text-nowrap text-xs flex flex-auto justify-center font-bold bg-black text-white"
+                >
+                  Select
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10 4.5c1.215 0 2.417.055 3.604.162a.68.68 0 0 1 .615.597c.124 1.038.208 2.088.25 3.15l-1.689-1.69a.75.75 0 0 0-1.06 1.061l2.999 3a.75.75 0 0 0 1.06 0l3.001-3a.75.75 0 1 0-1.06-1.06l-1.748 1.747a41.31 41.31 0 0 0-.264-3.386 2.18 2.18 0 0 0-1.97-1.913 41.512 41.512 0 0 0-7.477 0 2.18 2.18 0 0 0-1.969 1.913 41.16 41.16 0 0 0-.16 1.61.75.75 0 1 0 1.495.12c.041-.52.093-1.038.154-1.552a.68.68 0 0 1 .615-.597A40.012 40.012 0 0 1 10 4.5ZM5.281 9.22a.75.75 0 0 0-1.06 0l-3.001 3a.75.75 0 1 0 1.06 1.06l1.748-1.747c.042 1.141.13 2.27.264 3.386a2.18 2.18 0 0 0 1.97 1.913 41.533 41.533 0 0 0 7.477 0 2.18 2.18 0 0 0 1.969-1.913c.064-.534.117-1.071.16-1.61a.75.75 0 1 0-1.495-.12c-.041.52-.093 1.037-.154 1.552a.68.68 0 0 1-.615.597 40.013 40.013 0 0 1-7.208 0 .68.68 0 0 1-.615-.597 39.785 39.785 0 0 1-.25-3.15l1.689 1.69a.75.75 0 0 0 1.06-1.061l-2.999-3Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-15 h-[32px] text-nowrap text-xs flex flex-auto justify-center bg-pear-500"
+                >
+                  Add To Cart
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex rounded-lg mx-2"
+          >
+            <div
+              class="place-self-center mr-4 rounded-lg"
+            >
+              <img
+                alt="Product Title #2"
+                class="max-w-25"
+                data-nimg="1"
+                decoding="async"
+                height="100"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg&w=256&q=75 2x"
+                style="color: transparent;"
+                width="100"
+              />
+            </div>
+            <div
+              class="flex flex-col items-stretch ml-4 gap-y-2"
+            >
+              <h4
+                class="text-sm md:text-xs flex items-end font-bold h-auto md:h-[46px] overflow-y-hidden"
+              >
+                Product Title #2
+              </h4>
+              <p
+                class="text-base font-bold"
+              >
+                £
+                22.30
+              </p>
+              <div
+                class="flex text-xs undefined"
+              >
+                <div
+                  class="flex flex-row gap-x-1 justify-center"
+                >
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <p
+                  class="px-2 py-[2px]"
+                >
+                  4.1
+                   (
+                  259
+                   Reviews)
+                </p>
+              </div>
+              <div
+                class="text-xs sm:text-xs md:text-xs min-h-[50px] md:min-h-[65px]"
+              >
+                <p>
+                  Product Description #2
+                </p>
+              </div>
+              <div
+                class="flex flex-col-2 place-content-center w-full mt-2 gap-4"
+              >
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-25 h-[32px] text-nowrap text-xs flex flex-auto justify-center font-bold bg-black text-white"
+                >
+                  Select
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10 4.5c1.215 0 2.417.055 3.604.162a.68.68 0 0 1 .615.597c.124 1.038.208 2.088.25 3.15l-1.689-1.69a.75.75 0 0 0-1.06 1.061l2.999 3a.75.75 0 0 0 1.06 0l3.001-3a.75.75 0 1 0-1.06-1.06l-1.748 1.747a41.31 41.31 0 0 0-.264-3.386 2.18 2.18 0 0 0-1.97-1.913 41.512 41.512 0 0 0-7.477 0 2.18 2.18 0 0 0-1.969 1.913 41.16 41.16 0 0 0-.16 1.61.75.75 0 1 0 1.495.12c.041-.52.093-1.038.154-1.552a.68.68 0 0 1 .615-.597A40.012 40.012 0 0 1 10 4.5ZM5.281 9.22a.75.75 0 0 0-1.06 0l-3.001 3a.75.75 0 1 0 1.06 1.06l1.748-1.747c.042 1.141.13 2.27.264 3.386a2.18 2.18 0 0 0 1.97 1.913 41.533 41.533 0 0 0 7.477 0 2.18 2.18 0 0 0 1.969-1.913c.064-.534.117-1.071.16-1.61a.75.75 0 1 0-1.495-.12c-.041.52-.093 1.037-.154 1.552a.68.68 0 0 1-.615.597 40.013 40.013 0 0 1-7.208 0 .68.68 0 0 1-.615-.597 39.785 39.785 0 0 1-.25-3.15l1.689 1.69a.75.75 0 0 0 1.06-1.061l-2.999-3Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-15 h-[32px] text-nowrap text-xs flex flex-auto justify-center bg-pear-500"
+                >
+                  Add To Cart
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex rounded-lg mx-2"
+          >
+            <div
+              class="place-self-center mr-4 rounded-lg"
+            >
+              <img
+                alt="Product Title #3"
+                class="max-w-25"
+                data-nimg="1"
+                decoding="async"
+                height="100"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71li-ujtlUL._AC_UX679_.jpg&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71li-ujtlUL._AC_UX679_.jpg&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71li-ujtlUL._AC_UX679_.jpg&w=256&q=75 2x"
+                style="color: transparent;"
+                width="100"
+              />
+            </div>
+            <div
+              class="flex flex-col items-stretch ml-4 gap-y-2"
+            >
+              <h4
+                class="text-sm md:text-xs flex items-end font-bold h-auto md:h-[46px] overflow-y-hidden"
+              >
+                Product Title #3
+              </h4>
+              <p
+                class="text-base font-bold"
+              >
+                £
+                55.99
+              </p>
+              <div
+                class="flex text-xs undefined"
+              >
+                <div
+                  class="flex flex-row gap-x-1 justify-center"
+                >
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <p
+                  class="px-2 py-[2px]"
+                >
+                  4.7
+                   (
+                  500
+                   Reviews)
+                </p>
+              </div>
+              <div
+                class="text-xs sm:text-xs md:text-xs min-h-[50px] md:min-h-[65px]"
+              >
+                <p>
+                  Product Description #3
+                </p>
+              </div>
+              <div
+                class="flex flex-col-2 place-content-center w-full mt-2 gap-4"
+              >
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-25 h-[32px] text-nowrap text-xs flex flex-auto justify-center font-bold bg-black text-white"
+                >
+                  Select
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10 4.5c1.215 0 2.417.055 3.604.162a.68.68 0 0 1 .615.597c.124 1.038.208 2.088.25 3.15l-1.689-1.69a.75.75 0 0 0-1.06 1.061l2.999 3a.75.75 0 0 0 1.06 0l3.001-3a.75.75 0 1 0-1.06-1.06l-1.748 1.747a41.31 41.31 0 0 0-.264-3.386 2.18 2.18 0 0 0-1.97-1.913 41.512 41.512 0 0 0-7.477 0 2.18 2.18 0 0 0-1.969 1.913 41.16 41.16 0 0 0-.16 1.61.75.75 0 1 0 1.495.12c.041-.52.093-1.038.154-1.552a.68.68 0 0 1 .615-.597A40.012 40.012 0 0 1 10 4.5ZM5.281 9.22a.75.75 0 0 0-1.06 0l-3.001 3a.75.75 0 1 0 1.06 1.06l1.748-1.747c.042 1.141.13 2.27.264 3.386a2.18 2.18 0 0 0 1.97 1.913 41.533 41.533 0 0 0 7.477 0 2.18 2.18 0 0 0 1.969-1.913c.064-.534.117-1.071.16-1.61a.75.75 0 1 0-1.495-.12c-.041.52-.093 1.037-.154 1.552a.68.68 0 0 1-.615.597 40.013 40.013 0 0 1-7.208 0 .68.68 0 0 1-.615-.597 39.785 39.785 0 0 1-.25-3.15l1.689 1.69a.75.75 0 0 0 1.06-1.061l-2.999-3Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-15 h-[32px] text-nowrap text-xs flex flex-auto justify-center bg-pear-500"
+                >
+                  Add To Cart
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex rounded-lg mx-2"
+          >
+            <div
+              class="place-self-center mr-4 rounded-lg"
+            >
+              <img
+                alt="Product Title #4"
+                class="max-w-25"
+                data-nimg="1"
+                decoding="async"
+                height="100"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71YXzeOuslL._AC_UY879_.jpg&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71YXzeOuslL._AC_UY879_.jpg&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71YXzeOuslL._AC_UY879_.jpg&w=256&q=75 2x"
+                style="color: transparent;"
+                width="100"
+              />
+            </div>
+            <div
+              class="flex flex-col items-stretch ml-4 gap-y-2"
+            >
+              <h4
+                class="text-sm md:text-xs flex items-end font-bold h-auto md:h-[46px] overflow-y-hidden"
+              >
+                Product Title #4
+              </h4>
+              <p
+                class="text-base font-bold"
+              >
+                £
+                15.99
+              </p>
+              <div
+                class="flex text-xs undefined"
+              >
+                <div
+                  class="flex flex-row gap-x-1 justify-center"
+                >
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <p
+                  class="px-2 py-[2px]"
+                >
+                  2.1
+                   (
+                  430
+                   Reviews)
+                </p>
+              </div>
+              <div
+                class="text-xs sm:text-xs md:text-xs min-h-[50px] md:min-h-[65px]"
+              >
+                <p>
+                  Product Description #4
+                </p>
+              </div>
+              <div
+                class="flex flex-col-2 place-content-center w-full mt-2 gap-4"
+              >
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-25 h-[32px] text-nowrap text-xs flex flex-auto justify-center font-bold bg-black text-white"
+                >
+                  Select
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10 4.5c1.215 0 2.417.055 3.604.162a.68.68 0 0 1 .615.597c.124 1.038.208 2.088.25 3.15l-1.689-1.69a.75.75 0 0 0-1.06 1.061l2.999 3a.75.75 0 0 0 1.06 0l3.001-3a.75.75 0 1 0-1.06-1.06l-1.748 1.747a41.31 41.31 0 0 0-.264-3.386 2.18 2.18 0 0 0-1.97-1.913 41.512 41.512 0 0 0-7.477 0 2.18 2.18 0 0 0-1.969 1.913 41.16 41.16 0 0 0-.16 1.61.75.75 0 1 0 1.495.12c.041-.52.093-1.038.154-1.552a.68.68 0 0 1 .615-.597A40.012 40.012 0 0 1 10 4.5ZM5.281 9.22a.75.75 0 0 0-1.06 0l-3.001 3a.75.75 0 1 0 1.06 1.06l1.748-1.747c.042 1.141.13 2.27.264 3.386a2.18 2.18 0 0 0 1.97 1.913 41.533 41.533 0 0 0 7.477 0 2.18 2.18 0 0 0 1.969-1.913c.064-.534.117-1.071.16-1.61a.75.75 0 1 0-1.495-.12c-.041.52-.093 1.037-.154 1.552a.68.68 0 0 1-.615.597 40.013 40.013 0 0 1-7.208 0 .68.68 0 0 1-.615-.597 39.785 39.785 0 0 1-.25-3.15l1.689 1.69a.75.75 0 0 0 1.06-1.061l-2.999-3Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-15 h-[32px] text-nowrap text-xs flex flex-auto justify-center bg-pear-500"
+                >
+                  Add To Cart
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex rounded-lg mx-2"
+          >
+            <div
+              class="place-self-center mr-4 rounded-lg"
+            >
+              <img
+                alt="Product Title #5"
+                class="max-w-25"
+                data-nimg="1"
+                decoding="async"
+                height="100"
+                loading="lazy"
+                src="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg&w=256&q=75"
+                srcset="/_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg&w=128&q=75 1x, /_next/image?url=https%3A%2F%2Ffakestoreapi.com%2Fimg%2F71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg&w=256&q=75 2x"
+                style="color: transparent;"
+                width="100"
+              />
+            </div>
+            <div
+              class="flex flex-col items-stretch ml-4 gap-y-2"
+            >
+              <h4
+                class="text-sm md:text-xs flex items-end font-bold h-auto md:h-[46px] overflow-y-hidden"
+              >
+                Product Title #5
+              </h4>
+              <p
+                class="text-base font-bold"
+              >
+                £
+                695.00
+              </p>
+              <div
+                class="flex text-xs undefined"
+              >
+                <div
+                  class="flex flex-row gap-x-1 justify-center"
+                >
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-amber-500"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                  <svg
+                    class="size-4 text-gray-900"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+                <p
+                  class="px-2 py-[2px]"
+                >
+                  4.67
+                   (
+                  400
+                   Reviews)
+                </p>
+              </div>
+              <div
+                class="text-xs sm:text-xs md:text-xs min-h-[50px] md:min-h-[65px]"
+              >
+                <p>
+                  Product Description #5
+                </p>
+              </div>
+              <div
+                class="flex flex-col-2 place-content-center w-full mt-2 gap-4"
+              >
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-25 h-[32px] text-nowrap text-xs flex flex-auto justify-center font-bold bg-black text-white"
+                >
+                  Select
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M10 4.5c1.215 0 2.417.055 3.604.162a.68.68 0 0 1 .615.597c.124 1.038.208 2.088.25 3.15l-1.689-1.69a.75.75 0 0 0-1.06 1.061l2.999 3a.75.75 0 0 0 1.06 0l3.001-3a.75.75 0 1 0-1.06-1.06l-1.748 1.747a41.31 41.31 0 0 0-.264-3.386 2.18 2.18 0 0 0-1.97-1.913 41.512 41.512 0 0 0-7.477 0 2.18 2.18 0 0 0-1.969 1.913 41.16 41.16 0 0 0-.16 1.61.75.75 0 1 0 1.495.12c.041-.52.093-1.038.154-1.552a.68.68 0 0 1 .615-.597A40.012 40.012 0 0 1 10 4.5ZM5.281 9.22a.75.75 0 0 0-1.06 0l-3.001 3a.75.75 0 1 0 1.06 1.06l1.748-1.747c.042 1.141.13 2.27.264 3.386a2.18 2.18 0 0 0 1.97 1.913 41.533 41.533 0 0 0 7.477 0 2.18 2.18 0 0 0 1.969-1.913c.064-.534.117-1.071.16-1.61a.75.75 0 1 0-1.495-.12c-.041.52-.093 1.037-.154 1.552a.68.68 0 0 1-.615.597 40.013 40.013 0 0 1-7.208 0 .68.68 0 0 1-.615-.597 39.785 39.785 0 0 1-.25-3.15l1.689 1.69a.75.75 0 0 0 1.06-1.061l-2.999-3Z"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </button>
+                <button
+                  class="rounded font-medium min-h-[32px] text-center place-items-center place-content-center 
+        hover:cursor-pointer hover:opacity-80 
+         p-2 w-15 h-[32px] text-nowrap text-xs flex flex-auto justify-center bg-pear-500"
+                >
+                  Add To Cart
+                  <svg
+                    class="size-3 ml-[2px] mr-[-4px]"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.5"
+                    viewBox="0 0 24 24"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 0 0-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 0 0-16.536-1.84M7.5 14.25 5.106 5.272M6 20.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Zm12.75 0a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p
+        class="text-center my-40"
+      >
+        <strong>
+          Loading Products...
+        </strong>
+        <br />
+        Sit tight, Products are on the way
+      </p>
+    </div>
+  </body>,
+  "container": <div>
+    <p
+      class="text-center my-40"
+    >
+      <strong>
+        Loading Products...
+      </strong>
+      <br />
+      Sit tight, Products are on the way
+    </p>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "store": {
+    "@@observable": [Function],
+    "dispatch": [Function],
+    "getState": [Function],
+    "replaceReducer": [Function],
+    "subscribe": [Function],
+  },
+  "unmount": [Function],
+}
+`;
